@@ -1,4 +1,4 @@
-<img width="2000" height="1414" alt="JULIUS MUENDO MUSAU" src="https://github.com/user-attachments/assets/ca476e8c-8ab7-43ec-82a6-ebafb7887653" /># AnalystLab Africa Data Analytics Internship
+# AnalystLab Africa Data Analytics Internship
 
 Welcome to my **AnalystLab Africa Data Analytics Internship** repository.
 
@@ -12,10 +12,10 @@ The internship has provided an opportunity to apply data analytics concepts to r
 
 **AnalystLab Africa Data Analytics Internship Programme** 
 **Certificate of Completion – September 2026**
-
+<img width="2000" height="1414" alt="JULIUS MUENDO MUSAU" src="https://github.com/user-attachments/assets/ca476e8c-8ab7-43ec-82a6-ebafb7887653" />
 
 Successfully completed the AnalystLab Africa Data Analytics Internship Programme, gaining practical experience in data analysis, data cleaning, exploratory data analysis, SQL, data visualization, Power BI, Python-based analysis, ETL, API data extraction, and data-driven reporting.
-![Uploading JULIUS MUENDO MUSAU.png…]()
+
 
 
 ---
