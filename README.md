@@ -1,10 +1,22 @@
-# AnalystLab Africa Data Analytics Internship
+<img width="2000" height="1414" alt="JULIUS MUENDO MUSAU" src="https://github.com/user-attachments/assets/ca476e8c-8ab7-43ec-82a6-ebafb7887653" /># AnalystLab Africa Data Analytics Internship
 
 Welcome to my **AnalystLab Africa Data Analytics Internship** repository.
 
 This repository documents my practical learning journey and hands-on experience throughout the AnalystLab Africa Data Analytics Internship. It contains my work, analysis, notebooks, dashboards, documentation, and other deliverables completed during the internship.
 
 The internship has provided an opportunity to apply data analytics concepts to real-world datasets and develop practical skills across the data analytics lifecycle.
+
+---
+
+## Certification
+
+**AnalystLab Africa Data Analytics Internship Programme** 
+**Certificate of Completion – September 2026**
+
+
+Successfully completed the AnalystLab Africa Data Analytics Internship Programme, gaining practical experience in data analysis, data cleaning, exploratory data analysis, SQL, data visualization, Power BI, Python-based analysis, ETL, API data extraction, and data-driven reporting.
+![Uploading JULIUS MUENDO MUSAU.png…]()
+
 
 ---
 
